@@ -1,0 +1,2 @@
+# lake-opaque
+Interactive fiction. 
